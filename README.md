@@ -74,7 +74,7 @@ Esta actualización corrige un problema crítico que afectaba la estabilidad de 
 🛠️ Cambios incluidos:
 [WinError 10056] - Socket ya conectado: Se resolvió el error que impedía reconectar al servidor si el socket ya estaba abierto. Ahora, el cliente gestiona correctamente el estado del socket creando una nueva instancia cuando se reconecta. 🎯
 
-IP dinámica desde interfaz: Ya no es necesario modificar el código fuente para cambiar la dirección IP del PLC. Ahora puedes ingresar la IP directamente desde la interfaz gráfica. 💡
+IP dinámica desde interfaz: Ya no es necesario modificar el código fuente para cambiar la dirección IP del SERVIDOR. Ahora puedes ingresar la IP directamente desde la interfaz gráfica. 💡
 
 Mejores prácticas de cliente TCP: Se aplicaron principios de diseño robusto al manejo de sockets, mejorando la estabilidad general de la aplicación. 👨‍💻
 
@@ -91,9 +91,4 @@ Control remoto en la nube ☁️
 
 ¡Actualiza ya a la 2.1 y disfruta de una experiencia más estable y profesional en tu sistema ciberfísico con PLC Siemens LOGO!
 
-### **Instalación y Uso**
 
-1. **Clonar el repositorio:**
-
-   ```bash
-   git clone https://github.com/tuusuario/plc-control-client.git
