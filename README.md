@@ -66,6 +66,30 @@ Con esta nueva versión, hemos mejorado la estabilidad y la experiencia de usuar
 > - Explorar la **integración en la nube** para ofrecerte un control remoto aún más potente. 🌥️
 
 ---
+Versión 2.1 - Corrección Crítica de Conexión
+¡Versión 2.1 ya está aquí! ✅
+
+Esta actualización corrige un problema crítico que afectaba la estabilidad de las conexiones en la versión anterior. Nos aseguramos de que tu experiencia de control con el PLC sea aún más robusta y sin interrupciones.
+
+🛠️ Cambios incluidos:
+[WinError 10056] - Socket ya conectado: Se resolvió el error que impedía reconectar al servidor si el socket ya estaba abierto. Ahora, el cliente gestiona correctamente el estado del socket creando una nueva instancia cuando se reconecta. 🎯
+
+IP dinámica desde interfaz: Ya no es necesario modificar el código fuente para cambiar la dirección IP del PLC. Ahora puedes ingresar la IP directamente desde la interfaz gráfica. 💡
+
+Mejores prácticas de cliente TCP: Se aplicaron principios de diseño robusto al manejo de sockets, mejorando la estabilidad general de la aplicación. 👨‍💻
+
+📌 ¿Qué sigue?
+Nos estamos preparando para llevar esta herramienta al siguiente nivel. Algunas funciones planeadas para las próximas versiones:
+
+Seguridad con cifrado de datos 🔐
+
+Soporte multicliente y multiprocesamiento 🤝
+
+Visualización avanzada con gráficas de rendimiento 📈
+
+Control remoto en la nube ☁️
+
+¡Actualiza ya a la 2.1 y disfruta de una experiencia más estable y profesional en tu sistema ciberfísico con PLC Siemens LOGO!
 
 ### **Instalación y Uso**
 
