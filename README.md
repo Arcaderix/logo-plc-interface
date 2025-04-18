@@ -18,7 +18,7 @@
 
 ## **Objetivo del Proyecto:**
 
-Este proyecto tiene como objetivo proporcionar una herramienta sencilla y efectiva para el control y monitoreo de PLCs Siemens LOGO!, ideal para aplicaciones de automatización y control industrial en entornos educativos y profesionales.
+es el resultado de más de 2 meses practicando snap7 y python  tiempo parcial, codificación recodificación, depuración, y una ruptura amorosa, etc. (sólo bromeando sobre el bit de ruptura amorosa). PLC Control Client  está codificado en python , Este proyecto tiene como objetivo proporcionar una herramienta sencilla y efectiva para el control y monitoreo de PLCs Siemens LOGO!, ideal para aplicaciones de automatización y control industrial en entornos educativos y profesionales.
 
 ---
 
