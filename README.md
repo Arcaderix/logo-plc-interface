@@ -7,8 +7,8 @@
 - **Conexión al PLC:** Establece una conexión confiable con el PLC Siemens LOGO! mediante la red local, utilizando el protocolo TCP/IP.
 - **Interfaz Gráfica Intuitiva:** Diseñada con Tkinter, la interfaz permite una fácil navegación y control de las funciones del PLC.
 - **Control de Entradas y Salidas:** Permite leer el estado de las entradas digitales y escribir en las salidas digitales del PLC.
-- **Actualización Automática:** La aplicación verifica periódicamente el estado del PLC, asegurando que la información mostrada esté siempre actualizada.
-- **Registro de Eventos:** Mantiene un historial de eventos y acciones realizadas, facilitando el diagnóstico y seguimiento de operaciones.
+- **Actualización Automática:** La aplicación verifica periódicamente el estado del PLC.
+- **Registro de Eventos:** Mantiene un historial de eventos y acciones realizadas.
 
 ## **Tecnologías Utilizadas:**
 
@@ -18,7 +18,7 @@
 
 ## **Objetivo del Proyecto:**
 
-Es el resultado de más de 2 meses practicando snap7 y python  tiempo parcial, codificación recodificación, depuración, y una ruptura amorosa, etc. (sólo bromeando sobre el bit de ruptura amorosa). PLC Control Client  está codificado en python , Este proyecto tiene como objetivo proporcionar una herramienta sencilla y efectiva para el control y monitoreo de PLCs Siemens LOGO!, ideal para aplicaciones de automatización y control industrial en entornos educativos y profesionales.
+Es el resultado de más de 2 meses practicando snap7 y python  tiempo parcial, codificación recodificación, depuración, etc. PLC Control Client  está codificado en python , Este proyecto tiene como objetivo proporcionar una herramienta sencilla y efectiva para el control y monitoreo de PLCs Siemens LOGO!, ideal para aplicaciones de automatización y control industrial en entornos educativos y profesionales.
 
 ---
 
