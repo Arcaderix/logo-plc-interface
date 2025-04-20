@@ -80,7 +80,7 @@ Mejores prácticas de cliente TCP: Se aplicaron principios de diseño robusto al
 
 > **📌 ¿Qué sigue?**
 > 
-Nos estamos preparando para llevar esta herramienta al siguiente nivel. Algunas funciones planeadas para las próximas versiones:
+> -Nos estamos preparando para llevar esta herramienta al siguiente nivel. Algunas funciones planeadas para las próximas versiones:
 
 > -Seguridad con cifrado de datos 🔐
 
