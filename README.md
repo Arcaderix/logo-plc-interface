@@ -82,11 +82,8 @@ Mejores prácticas de cliente TCP: Se aplicaron principios de diseño robusto al
 > 
 >-Nos estamos preparando para llevar esta herramienta al siguiente nivel. Algunas funciones planeadas para las próximas versiones:
 >-Seguridad con cifrado de datos 🔐
->-Soporte multicliente y multiprocesamiento 🤝
->-Visualización avanzada con gráficas de rendimiento 📈
+>-Soporte multicliente  🤝
+>-Visualización avanzada con gráficas  📈
 
-> -Control remoto en la nube ☁️
-
-¡Actualiza ya a la 2.1 y disfruta de una experiencia más estable y profesional en tu sistema ciberfísico con PLC Siemens LOGO!
 
 
