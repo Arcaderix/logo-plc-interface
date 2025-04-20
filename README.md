@@ -85,5 +85,5 @@ Mejores prácticas de cliente TCP: Se aplicaron principios de diseño robusto al
 >-Soporte multicliente  🤝
 >-Visualización avanzada con gráficas  📈
 
-
+---
 
