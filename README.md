@@ -67,7 +67,7 @@ Con esta nueva versión, hemos mejorado la estabilidad y la experiencia de usuar
 
 ---
 Versión 2.0.a - Corrección Crítica de Conexión
-¡Versión 2.1 ya está aquí! ✅
+¡Versión 2.0.a ya está aquí! ✅
 
 Esta actualización corrige un problema crítico que afectaba la estabilidad de las conexiones en la versión anterior. Nos aseguramos de que tu experiencia de control con el PLC sea aún más robusta y sin interrupciones.
 
@@ -82,7 +82,6 @@ Mejores prácticas de cliente TCP: Se aplicaron principios de diseño robusto al
 > 
 > - Nos estamos preparando para llevar esta herramienta al siguiente nivel. Algunas funciones planeadas para las próximas versiones:
 > - Seguridad con cifrado de datos 🔐
-> - Soporte multicliente  🤝
 > - Visualización avanzada con gráficas  📈
 
 ---
