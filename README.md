@@ -66,7 +66,7 @@ Con esta nueva versión, hemos mejorado la estabilidad y la experiencia de usuar
 > - Explorar la **integración en la nube** para ofrecerte un control remoto aún más potente. 🌥️
 
 ---
-Versión 2.1 - Corrección Crítica de Conexión
+Versión 2.0.a - Corrección Crítica de Conexión
 ¡Versión 2.1 ya está aquí! ✅
 
 Esta actualización corrige un problema crítico que afectaba la estabilidad de las conexiones en la versión anterior. Nos aseguramos de que tu experiencia de control con el PLC sea aún más robusta y sin interrupciones.
