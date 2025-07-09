@@ -86,3 +86,20 @@ Mejores prácticas de cliente TCP: Se aplicaron principios de diseño robusto al
 
 ---
 
+Versión 2.1 - Mejora en la Reconexión Automática, Manejo de Errores, y Verificación Periódica del Estado del PLC
+
+- Implementada reconexión automática al PLC cuando la conexión se pierde.
+- Agregado manejo de errores mejorado para capturar y mostrar mensajes claros.
+- Añadida verificación automática del estado del PLC cada 10 segundos.
+- Mejorada la interfaz gráfica con navegación más intuitiva.
+- Implementado registro detallado en la consola para depuración y monitoreo.
+- Agregada capacidad de ingresar la IP del servidor directamente desde la interfaz gráfica.
+- Mejoras en el manejo de sockets y principios de diseño robusto.
+
+Próximos pasos:
+- Añadir cifrado de datos para mejorar la seguridad de las conexiones.
+- Permitir la conexión y control de múltiples PLCs desde una sola instancia.
+- Mejorar la visualización con gráficos dinámicos e interactivos.
+
+
+
